@@ -10,3 +10,7 @@
 </nav>
 
 <h1 class="display-1">{str}</h1>
+
+<div data-controller="hello">
+
+</div>
